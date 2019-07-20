@@ -1,0 +1,14 @@
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\bin\Debug\WFA_Odevler.exe.config
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\bin\Debug\WFA_Odevler.exe
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\bin\Debug\WFA_Odevler.pdb
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\bin\Debug\MetroFramework.Design.dll
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\bin\Debug\MetroFramework.dll
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.Properties.Resources.resources
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.csproj.CopyComplete
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.exe
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.pdb
+C:\Users\Fatih\Desktop\WFA_Odevler\WFA_Odevler\obj\Debug\WFA_Odevler.Form1.resources
